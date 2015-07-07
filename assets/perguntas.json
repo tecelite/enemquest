@@ -1,0 +1,39 @@
+[
+    {
+        "enump": "A alternativa dessa pergunta é A",
+        "altcorreta": "a",    
+        "enuma": "Esse é o enunciado da alternativa A",
+        "enumb": "Esse é o enunciado da alternativa B",
+        "enumc": "Esse é o enunciado da alternativa C",
+        "enumd": "Esse é o enunciado da alternativa D",
+        "enume": "Esse é o enunciado da alternativa E",
+            
+    },
+    {
+        "enump": "A alternativa dessa pergunta é B",
+        "altcorreta": "b",    
+        "enuma": "Esse é o enunciado da alternativa A",
+        "enumb": "Esse é o enunciado da alternativa B",
+        "enumc": "Esse é o enunciado da alternativa C",
+        "enumd": "Esse é o enunciado da alternativa D",
+        "enume": "Esse é o enunciado da alternativa E",     
+    },
+    {
+        "enump": "A alternativa dessa pergunta é C",
+        "altcorreta": "c",    
+        "enuma": "Esse é o enunciado da alternativa A",
+        "enumb": "Esse é o enunciado da alternativa B",
+        "enumc": "Esse é o enunciado da alternativa C",
+        "enumd": "Esse é o enunciado da alternativa D",
+        "enume": "Esse é o enunciado da alternativa E",   
+    },
+    {
+        "enump": "A alternativa dessa pergunta é D",
+        "altcorreta": "d",    
+        "enuma": "Esse é o enunciado da alternativa A",
+        "enumb": "Esse é o enunciado da alternativa B",
+        "enumc": "Esse é o enunciado da alternativa C",
+        "enumd": "Esse é o enunciado da alternativa D",
+        "enume": "Esse é o enunciado da alternativa E",  
+    }
+]
